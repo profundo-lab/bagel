@@ -7,6 +7,7 @@
 - [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification)
 - [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot)
 - [Home Price Competition](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) (Iowa Ames Housing Pricing)
+- [Mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
 
 ## Uploaded data
 - train.csv - 鐵達尼分類競賽 Train Set
@@ -14,6 +15,8 @@
 - UCI - winequality-red.csv - 紅酒品質分類原始檔（from UCI Machine Archive）
 - wine_train.csv - 紅酒品質二元分類訓練集
 - wine_test.csv - 紅酒品質二元分類測試集
+- mushrooms_train.csv - 這個[有毒](https://www.kaggle.com/uciml/mushroom-classification)嗎？
+- mushrooms_test.csv - 這個有毒嗎？
 - multiclass_train.csv - 紅酒品質多元分類訓練集
 - multiclass_test.csv - 紅酒品質多元分類測試集
 - home_price_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集
