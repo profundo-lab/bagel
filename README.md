@@ -9,6 +9,10 @@
 - [Home Price Competition](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) (Iowa Ames Housing Pricing)
 - [Mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
 
+## Reference
+
+- A Practical Guide to Dimensionality Reduction Techniques.pdf [Vishal Patel Keynote @ PyData 2016](https://www.youtube.com/watch?v=ioXKxulmwVQ) Vishal Patel 在 PyData 2016 的演講，非常有用的「特徵選擇」參考資料
+
 ## Uploaded data
 - train.csv - 鐵達尼分類競賽 Train Set
 - test.csv - 鐵達尼分類競賽 Test Set
