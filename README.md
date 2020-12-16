@@ -14,7 +14,7 @@
 - A Practical Guide to Dimensionality Reduction Techniques.pdf - [Vishal Patel Keynote @ PyData 2016 （Video）](https://www.youtube.com/watch?v=ioXKxulmwVQ) Vishal Patel 在 PyData 2016 的[演講]((https://www.youtube.com/watch?v=ioXKxulmwVQ))，非常有用的「特徵選擇」參考資料
 - 新冠疫情參考資料.md  - 新冠疫情的統計資料
 - [Open AI 小紅人/小藍人捉迷藏影片](https://openai.com/blog/emergent-tool-use/)
-- [Open AI 小紅人/小藍人捉迷藏影片幕後花絮]（https://yixi.tv/#/speech/detail?id=924）
+- [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://yixi.tv/#/speech/detail?id=924)
 
 ## Uploaded data
 - boston_train.csv - scikit_learn.datasets.load_boston() 下載版
