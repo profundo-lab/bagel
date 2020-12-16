@@ -14,6 +14,8 @@
 - A Practical Guide to Dimensionality Reduction Techniques.pdf - [Vishal Patel Keynote @ PyData 2016](https://www.youtube.com/watch?v=ioXKxulmwVQ) Vishal Patel 在 PyData 2016 的[演講]((https://www.youtube.com/watch?v=ioXKxulmwVQ))，非常有用的「特徵選擇」參考資料
 
 ## Uploaded data
+- boston_train.csv - scikit_learn.datasets.load_boston() 下載版
+- boston_test.csv - scikit_learn.datasets.load_boston() 下載版
 - train.csv - 鐵達尼分類競賽 Train Set
 - test.csv - 鐵達尼分類競賽 Test Set
 - UCI - winequality-red.csv - 紅酒品質分類原始檔（from UCI Machine Archive）
@@ -31,5 +33,7 @@
 - melb_data.csv - [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot) 墨爾本房價資料 （迴歸）
 - melb_train.csv - 墨爾本房價訓練集
 - melb_test.csv - 墨爾本房價測試集
+- melb_train_lite.csv - 墨爾本房價訓練集精簡
+- melb_test_lint.csv - 墨爾本房價測試集精簡版
 - mpc_train.csv - [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) Train Set
 - mpc_test.csv - Mobile Proce Classification Test Set
