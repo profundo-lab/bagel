@@ -12,6 +12,7 @@
 ## Reference
 
 - A Practical Guide to Dimensionality Reduction Techniques.pdf - [Vishal Patel Keynote @ PyData 2016](https://www.youtube.com/watch?v=ioXKxulmwVQ) Vishal Patel 在 PyData 2016 的[演講]((https://www.youtube.com/watch?v=ioXKxulmwVQ))，非常有用的「特徵選擇」參考資料
+- 新冠疫情參考資料.md  - 新冠疫情的統計資料
 
 ## Uploaded data
 - boston_train.csv - scikit_learn.datasets.load_boston() 下載版
