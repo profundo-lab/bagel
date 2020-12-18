@@ -19,9 +19,9 @@
 - [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://yixi.tv/#/speech/detail?id=924)
 
 ## Uploaded data
-- boston_train.csv - scikit_learn.datasets.load_boston() 下載版
+- boston_train.csv - scikit_learn.datasets.load_boston() 下載版 (迴歸)
 - boston_test.csv - scikit_learn.datasets.load_boston() 下載版
-- train.csv - 鐵達尼分類競賽 Train Set
+- train.csv - 鐵達尼分類競賽 Train Set （分類）
 - test.csv - 鐵達尼分類競賽 Test Set
 - promo_train_v3a.csv - Lift 分析訓練集（分類）<font color='brown'>2020/12/18 上傳</font>
 - promo_test_v3a.csv - Lift 分析測試集（分類）
@@ -35,12 +35,12 @@
 - home_price_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集
 - home_price_test.csv - Iowa Ames 房價預測測試集
 - housing.csv - 加州 1990 房價原始檔（迴歸）
-- housing_train.csv - 加州房價訓練集
-- housing_test.csv - 加州房價測試集
+- housing_train.csv - 加州房價訓練集 2020/12/18 重傳
+- housing_test.csv - 加州房價測試集 
 - melb_data.csv - [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot) 墨爾本房價資料 （迴歸）
 - melb_train.csv - 墨爾本房價訓練集
 - melb_test.csv - 墨爾本房價測試集
 - melb_train_lite.csv - 墨爾本房價訓練集精簡
 - melb_test_lint.csv - 墨爾本房價測試集精簡版
-- mpc_train.csv - [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) Train Set
+- mpc_train.csv - [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) Train Set （分類）
 - mpc_test.csv - Mobile Proce Classification Test Set
