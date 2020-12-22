@@ -23,7 +23,8 @@
 - boston_test.csv - scikit_learn.datasets.load_boston() 下載版
 - train.csv - 鐵達尼分類競賽 Train Set （分類）
 - test.csv - 鐵達尼分類競賽 Test Set
-- titanic profile.html - 鐵達尼資料集分析報告 2020/12/22 上傳
+- titanic_analysis.html - 鐵達尼資料集分析報告 2020/12/22 上傳
+- analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
 - promo_train_v3a.csv - Lift 分析訓練集（分類）<font color='brown'>2020/12/18 上傳</font>
 - promo_test_v3a.csv - Lift 分析測試集（分類）
 - UCI - winequality-red.csv - 紅酒品質分類原始檔（from UCI Machine Archive）
