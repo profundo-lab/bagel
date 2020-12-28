@@ -19,28 +19,30 @@
 - [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://yixi.tv/#/speech/detail?id=924)
 
 ## Uploaded data
+- ec_201012_train_v4.csv 客戶貢獻度訓練集 2012/12/28 上傳 （迴歸）
+- ec_201012_test_v4.csv 客戶貢獻度測試集
+- titanic_analysis.html - 鐵達尼資料集分析報告 2020/12/22 上傳 （分類）
+- analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
+- promo_train_v3a.csv - Lift 分析訓練集（分類）2020/12/18 上傳 （分類）
+- promo_test_v3a.csv - Lift 分析測試集（分類）
+- housing_train.csv - 加州房價訓練集 2020/12/18 重傳 （迴歸）
+- housing_test.csv - 加州房價測試集 
 - boston_train.csv - scikit_learn.datasets.load_boston() 下載版 (迴歸)
 - boston_test.csv - scikit_learn.datasets.load_boston() 下載版
 - train.csv - 鐵達尼分類競賽 Train Set （分類）
 - test.csv - 鐵達尼分類競賽 Test Set
-- titanic_analysis.html - 鐵達尼資料集分析報告 2020/12/22 上傳
-- analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
-- promo_train_v3a.csv - Lift 分析訓練集（分類）<font color='brown'>2020/12/18 上傳</font>
-- promo_test_v3a.csv - Lift 分析測試集（分類）
-- UCI - winequality-red.csv - 紅酒品質分類原始檔（from UCI Machine Archive）
+- UCI - winequality-red.csv - 紅酒品質分類原始檔（from UCI Machine Archive） （分類）
 - wine_train.csv - 紅酒品質二元分類訓練集
 - wine_test.csv - 紅酒品質二元分類測試集
-- mushrooms_train.csv - 蘑菇[有毒](https://www.kaggle.com/uciml/mushroom-classification)嗎？
+- mushrooms_train.csv - 蘑菇[有毒](https://www.kaggle.com/uciml/mushroom-classification)嗎？ （分類）
 - mushrooms_test.csv - 蘑菇有毒嗎？
-- multiclass_train.csv - 紅酒品質多元分類訓練集
+- multiclass_train.csv - 紅酒品質多元分類訓練集 （分類）
 - multiclass_test.csv - 紅酒品質多元分類測試集
-- home_price_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集
+- home_price_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集 （迴歸）
 - home_price_test.csv - Iowa Ames 房價預測測試集
 - housing.csv - 加州 1990 房價原始檔（迴歸）
-- housing_train.csv - 加州房價訓練集 2020/12/18 重傳
-- housing_test.csv - 加州房價測試集 
 - melb_data.csv - [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot) 墨爾本房價資料 （迴歸）
-- melb_train.csv - 墨爾本房價訓練集
+- melb_train.csv - 墨爾本房價訓練集 （迴歸）
 - melb_test.csv - 墨爾本房價測試集
 - melb_train_lite.csv - 墨爾本房價訓練集精簡
 - melb_test_lint.csv - 墨爾本房價測試集精簡版
