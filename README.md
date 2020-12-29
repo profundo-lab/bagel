@@ -19,6 +19,7 @@
 - [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://yixi.tv/#/speech/detail?id=924)
 
 ## Uploaded data
+- wine prediction sample.xlsx 紅酒品質預測輸出範例 2012/12/29 上傳
 - ec_201012_train_4.csv 客戶貢獻度訓練集 2012/12/28 上傳 （迴歸）
 - ec_201012_test_4.csv 客戶貢獻度測試集
 - ec_log_train.csv 客戶貢獻度資料集（購買貢獻度做對數轉換）2012/12/29 上傳
