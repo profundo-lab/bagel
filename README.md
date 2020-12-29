@@ -19,8 +19,8 @@
 - [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://yixi.tv/#/speech/detail?id=924)
 
 ## Uploaded data
-- ec_201012_train_v4.csv 客戶貢獻度訓練集 2012/12/28 上傳 （迴歸）
-- ec_201012_test_v4.csv 客戶貢獻度測試集
+- ec_201012_train_4.csv 客戶貢獻度訓練集 2012/12/28 上傳 （迴歸）
+- ec_201012_test_4.csv 客戶貢獻度測試集
 - titanic_analysis.html - 鐵達尼資料集分析報告 2020/12/22 上傳 （分類）
 - analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
 - promo_train_v3a.csv - Lift 分析訓練集（分類）2020/12/18 上傳 （分類）
