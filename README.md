@@ -28,9 +28,6 @@
 - analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
 - promo_train_v3a.csv - Lift 分析訓練集（分類）2020/12/18 上傳 （分類）
 - promo_test_v3a.csv - Lift 分析測試集（分類）
-- mushrooms.csv - 菌類植物是否可食（分類）資料集  2021/04/08 上傳
-- mushroom_train.csv - 菌類植物是否可食（分類）訓練資料集
-- mushroom_test.csv - 菌類植物是否可食（分類）測試資料集
 - california_train.csv - 加州房價訓練集 2020/12/18 重傳 （迴歸）
 - california_test.csv - 加州房價測試集
 - california_log_train.csv 加州房價訓練集（房價做對數轉換）2020/12/29 上傳
@@ -44,8 +41,9 @@
 - UCI - winequality-red.csv - 紅酒品質分類原始檔（from UCI Machine Archive） （分類）
 - wine_train.csv - 紅酒品質二元分類訓練集
 - wine_test.csv - 紅酒品質二元分類測試集
-- mushrooms_train.csv - 蘑菇[有毒](https://www.kaggle.com/uciml/mushroom-classification)嗎？ （分類）
-- mushrooms_test.csv - 蘑菇有毒嗎？
+- mushrooms.csv - 蘑菇[有毒](https://www.kaggle.com/uciml/mushroom-classification)嗎？ （分類） 2021/04/09 重傳
+- mushrooms_train.csv 蘑菇有毒嗎？（訓練集）
+- mushrooms_test.csv - 蘑菇有毒嗎？（測試集）
 - multiclass_train.csv - 紅酒品質多元分類訓練集 （分類）
 - multiclass_test.csv - 紅酒品質多元分類測試集
 - home_price_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集 （迴歸）
