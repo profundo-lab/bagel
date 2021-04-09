@@ -28,6 +28,9 @@
 - analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
 - promo_train_v3a.csv - Lift 分析訓練集（分類）2020/12/18 上傳 （分類）
 - promo_test_v3a.csv - Lift 分析測試集（分類）
+- mushrooms.csv - 菌類植物是否可食（分類）資料集  2021/04/08 上傳
+- mushroom_train.csv - 菌類植物是否可食（分類）訓練資料集
+- mushroom_test.csv - 菌類植物是否可食（分類）測試資料集
 - california_train.csv - 加州房價訓練集 2020/12/18 重傳 （迴歸）
 - california_test.csv - 加州房價測試集
 - california_log_train.csv 加州房價訓練集（房價做對數轉換）2020/12/29 上傳
