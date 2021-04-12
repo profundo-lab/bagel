@@ -15,7 +15,7 @@
 - 新冠疫情參考資料.md  - 新冠疫情的統計資料
 - explore.py - 分析缺失值的 python 程式原始碼
 - [Open AI 小紅人/小藍人捉迷藏影片](https://openai.com/blog/emergent-tool-use/)
-- [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://yixi.tv/#/speech/detail?id=924)
+- [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://www.youtube.com/watch?v=yGPMzhLpX0g)
 
 ## Uploaded data
 - wine prediction sample.xlsx 紅酒品質預測輸出範例 2012/12/29 上傳
