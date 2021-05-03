@@ -11,7 +11,7 @@
 
 ## Reference
 
-- A Practical Guide to Dimensionality Reduction Techniques.pdf - [Vishal Patel Keynote @ PyData 2016 （Video）](https://www.youtube.com/watch?v=ioXKxulmwVQ) Vishal Patel 在 PyData 2016 的[演講]((https://www.youtube.com/watch?v=ioXKxulmwVQ))，非常有用的「特徵選擇」參考資料
+- A Practical Guide to Dimensionality Reduction Techniques.pdf - [Vishal Patel Keynote @ PyData 2016 （Video）](https://www.youtube.com/watch?v=ioXKxulmwVQ) 這是 Derive 公司創辦人 [Vishal Patel](https://www.linkedin.com/in/vishaljp/) 在 PyData 2016 的[演講](https://pydata.org/dc2016/schedule/presentation/29/)，演講中提到「降低資料維度」的技巧很實用
 - 新冠疫情參考資料.md  - 新冠疫情的統計資料
 - explore.py - 分析缺失值的 python 程式原始碼
 - [Open AI 小紅人/小藍人捉迷藏影片](https://openai.com/blog/emergent-tool-use/)
