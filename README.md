@@ -18,8 +18,10 @@
 - [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://www.youtube.com/watch?v=yGPMzhLpX0g)
 
 ## Uploaded data
-- wine prediction sample.xlsx 紅酒品質預測輸出範例 2012/12/29 上傳
-- ec_201012_train_4.csv 客戶貢獻度訓練集 2012/12/28 上傳 （迴歸）
+- fraud_train_??.csv 信用卡詐欺預測訓練集切割 （分類）2021/07/19 上傳
+- fraud_test_??.csv 信用卡詐欺預測測試集切割 （分類）2021/07/19 上傳
+- wine prediction sample.xlsx 紅酒品質預測輸出範例 2020/12/29 上傳
+- ec_201012_train_4.csv 客戶貢獻度訓練集 2020/12/28 上傳 （迴歸）
 - ec_201012_test_4.csv 客戶貢獻度測試集
 - ec_log_train.csv 客戶貢獻度資料集（購買貢獻度做對數轉換）2012/12/29 上傳
 - ec_log_test.csv
@@ -27,6 +29,8 @@
 - analyze.py - 配合 pandas_profiling 使用的 python 原始碼 2020/12/22 上傳
 - promo_train_v3a.csv - Lift 分析訓練集（分類）2020/12/18 上傳 （分類）
 - promo_test_v3a.csv - Lift 分析測試集（分類）
+- promo_train_onehot.csv Lift 分析訓練集獨熱編碼 2021/07/15 上傳
+- promo_test_onehot.csv Lift 分析測試集獨熱變嗎 2121/07/15 上傳
 - california_train.csv - 加州房價訓練集 2020/12/18 重傳 （迴歸）
 - california_test.csv - 加州房價測試集
 - california_log_train.csv 加州房價訓練集（房價做對數轉換）2020/12/29 上傳
