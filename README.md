@@ -18,6 +18,8 @@
 - [Open AI 小紅人/小藍人捉迷藏影片幕後花絮](https://www.youtube.com/watch?v=yGPMzhLpX0g)
 
 ## Uploaded data
+- titanic_kaggle_train.csv 鐵達尼訓練集 Kaggle 版 2021/07/20 重傳
+- titanic_kaggle_test.csv 鐵達尼測試集 Kaggle 版 2021/07/20 重傳 
 - fraud_train_??.csv 信用卡詐欺預測訓練集切割 （分類）2021/07/19 上傳
 - fraud_test_??.csv 信用卡詐欺預測測試集切割 （分類）2021/07/19 上傳
 - wine prediction sample.xlsx 紅酒品質預測輸出範例 2020/12/29 上傳
