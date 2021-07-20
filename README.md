@@ -33,6 +33,8 @@
 - promo_test_v3a.csv - Lift 分析測試集（分類）
 - promo_train_onehot.csv Lift 分析訓練集獨熱編碼 2021/07/15 上傳
 - promo_test_onehot.csv Lift 分析測試集獨熱變嗎 2121/07/15 上傳
+- california_housing 加州房價完整檔案（未切割） 2121/07/21 重傳
+- promo_test_onehot.csv Lift 分析測試集獨熱變嗎 2121/07/15 上傳
 - california_train.csv - 加州房價訓練集 2020/12/18 重傳 （迴歸）
 - california_test.csv - 加州房價測試集
 - california_log_train.csv 加州房價訓練集（房價做對數轉換）2020/12/29 上傳
