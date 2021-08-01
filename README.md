@@ -53,8 +53,8 @@
 - mushrooms_test.csv - 蘑菇有毒嗎？（測試集）
 - multiclass_train.csv - 紅酒品質多元分類訓練集 （分類）
 - multiclass_test.csv - 紅酒品質多元分類測試集
-- home_price_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集 （迴歸）
-- home_price_test.csv - Iowa Ames 房價預測測試集
+- ames_house_train.csv - Iowa Ames [房價預測](https://www.kaggle.com/c/home-data-for-ml-course/overview)訓練集 （迴歸）2021/08/01 重傳
+- ames_house_test.csv - Iowa Ames 房價預測測試集
 - housing.csv - 加州 1990 房價原始檔（迴歸）
 - melb_data.csv - [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot) 墨爾本房價資料 （迴歸）
 - melb_train.csv - 墨爾本房價訓練集 （迴歸）
